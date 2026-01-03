@@ -6,22 +6,22 @@ A Minesweeper game built with vanilla HTML, CSS, and JavaScript.
 
 ## Features
 
--  **Three Difficultes**
+**Three Difficultes**
   - Easy: 9×9 grid with 10 mines
   - Medium: 16×16 grid with 40 mines
   - Hard: 16×30 grid with 99 mines
 
--  **Theme**
+**Theme**
   - Toggle between light and dark modes, preference saved in localStorage
 
--  **High Score Tracking**
+**High Score Tracking**
   - Best time recorded for each difficulty level
   - Persist across sessions using localStorage
 
-- **Responsive Design**
+**Responsive Design**
   - Adaptive container sizing based on difficulty level
 
-- 🎯 **Minesweeper Gameplay**
+**Minesweeper Gameplay**
   - Left-click to reveal cells
   - Right-click to flag potential mines
   - Auto-reveal adjacent empty cells
